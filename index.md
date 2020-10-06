@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## 欢迎你，来访者！
 
-You can use the [editor on GitHub](https://github.com/saika123/chengyibo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+虽然这只是一次计概作业，但也不失为一次前所未有的尝试与冒险。通过此页，您也许能看到一个全新版本的程轶博！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+奇怪的自我介绍方式增加了！
 
-### Markdown
+### 基本信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+程轶博，男（显然),湖北襄阳人，2002年4月26日初遇这个美好的世界。
+
+高中毕业于襄阳四中，现于PKU求学，将于1年后开启医学生涯。
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+关键词
+# 思辨
+# 嗜书
+# 二次元
 ```
+论性格，正经严肃为外壳，幽默风骚做内核
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+论爱好，上可投身艺术殿堂，绘画音乐均有涉猎；下能埋头动漫游戏，会展开黑必定有我
 
-### Jekyll Themes
+论日常，学习为主，亦可胜任工作；交友贵精，不妨多方接触
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saika123/chengyibo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+论闲暇，平生无所好，读书清谈博物馆；独处仍自得，异想哲思轻小说
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+三言两语谈不尽此人奥妙，而又倾心于与人面谈。
+
+火树银花万头攒动之处不必寻我，如欲见我，我在各种悲喜交集之处（木心）
+
+QQ：1431852772   WeChat：cybneverstop
+
+最近上手了点小才艺~ https://mp.weixin.qq.com/s/D56ZKlfDyqpzZ6p5IPT9oA
+
+
+### 成长经历
+
+成长于一个和睦开放的家庭，本人貌似没有什么特别值得一提的经历，和大多数小城市的孩子一样，普普通通地上小学，上初中，上高中。 既然选择了网页这种特殊的形式，那咱们就来谈些不一样的东西。
+    
+个人意识的塑造主要来自中学阶段的经历。从小学到初中经历了一个由开朗大方到逐渐沉默的过程。也许这是人之常情，在比自己更优秀的人面前会变得收敛，甚至自卑。由于性格中存在相对孤僻的一面，初中时期并不十分习惯与多数人相处，也就在那时形成了众人前沉默寡言，独处时滔滔不绝的习惯。正因为远离人群，同时也形成了一定的批判性思维（挑刺）。在此期间大量涉猎不同思想流派艺术风格的书籍、文学评论，日本文学尤甚，在个人思维中埋下了“物哀”的种子。
+
+从初中进入高中时经历了短暂的人生中第一次较大的挫折，孤身进入更广阔的平台后，初中时期的性格特点得到了前所未有的加强和异化。对个体行为思想特性的探求，对人文艺术的崇敬，以及纷繁复杂的个人思考观点在这个阶段井喷式爆发，高考前两个月尤甚。因此对于不同的人来说，本人的人物形象差别巨大。虽然思想空前高涨，但只是将书籍中的观点融合了个人经历捏造的无根浮萍，具有极强的主观性和偏向性。直到大学时与叔本华相遇，才第一次了解到与自己观点相似的，体系化学术化的哲学。
+
+最大的爱好是与不同性格的人交流。因此个人观点时刻处于多方思想的激荡中。
+  
+### 随想摘录
+
+选择医学，很大程度上源于个人的价值观。高中以来，就一直渴望了解生命的意义，渴望寻找到一项能让自己倾尽一切，甚至生命的事业。而医学，在我看来是理科范围内最具有人文情怀的学科。在生与死的抉择间，人所展现出的也许是生命最本质的东西。在我寻找到答案之前，我会善待自己的生命。
+
+身体，只是容纳大脑的载具。作为意志的世界与个体的关系最为密切。换言之，比起表象的物质世界作为对肉体的加持，意志的世界更能影响个体的生存体验。精神世界的丰富程度决定个体的存在价值。世界是主观的，对于不同个体而言，空间上的统一并不代表生存体验的一致。
+
+“梦想多么妖冶，多么锋利，人们在惊慌中四处逃窜，逃向功名，或者利禄，或者求功名利禄而不得的怨恨。”
+
+
