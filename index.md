@@ -31,7 +31,7 @@
 
 QQ：1431852772   WeChat：cybneverstop
 
-最近上手了点小才艺~ https://mp.weixin.qq.com/s/D56ZKlfDyqpzZ6p5IPT9oA
+最近上手了点小才艺~ [第一次做推送]（https://mp.weixin.qq.com/s/D56ZKlfDyqpzZ6p5IPT9oA）
 
 
 ### 成长经历
